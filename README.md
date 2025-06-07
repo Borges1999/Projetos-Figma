@@ -12,7 +12,7 @@ Esses projetos foram criados com foco em:
 
 - **Guiar clientes em configurações específicas sem risco de alterar ou desconfigurar os dispositivos.**
 
-- **poiar a equipe de suporte, otimizando o atendimento ao cliente.**
+- **Apoiar a equipe de suporte, otimizando o atendimento ao cliente.**
 
 - **Servir como material base para treinamentos futuros.**
 
