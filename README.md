@@ -24,16 +24,9 @@ As animações e interações visam oferecer uma navegação clara e didática, 
 
 🔗 Projeto: [iDFace no Figma](https://www.figma.com/proto/2dD5FbnVcHnP0VrYsx0C0W/iDFace?page-id=0%3A1&node-id=1-2&viewport=176%2C189%2C0.42&t=oSjpO8Eb4PVllVoL-8&scaling=scale-down&content-scaling=fixed&hide-ui=1)
 
-![image](https://github.com/user-attachments/assets/2bfea1f2-597b-4b26-8759-02c0d0313ac1)
-
 
 🔗 Projeto: [REP iDClass no Figma](https://www.figma.com/proto/Arb0wumQ3kHME2INFbWIzA/REP-iDClass?page-id=0%3A1&type=design&node-id=56-4&viewport=304%2C256%2C0.2&t=acayojU9MxuuDrw6-8&scaling=contain&starting-point-node-id=51%3A2&hide-ui=1)
 
-![image](https://github.com/user-attachments/assets/d3d5ea95-db12-400f-85aa-21519c4a2fc8)
-
 
 🔗 Projeto: [Print iD Touch no Figma](https://www.figma.com/proto/c09M8daqoroSujEM11aHAD/PrintiDTouch?page-id=0%3A1&type=design&node-id=1-3&viewport=291%2C122%2C0.08&t=uO78yoLJbckiphB4-8&scaling=contain&starting-point-node-id=61%3A108&hide-ui=1)
-
-![image](https://github.com/user-attachments/assets/1e57ff5d-c466-481a-bae2-62cb31d1b8ef)
-
 
