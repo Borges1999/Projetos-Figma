@@ -22,7 +22,7 @@ As animações e interações visam oferecer uma navegação clara e didática, 
 
 ## 🔗 Acesse os Projetos
 
-🔗 Projeto: <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/2dD5FbnVcHnP0VrYsx0C0W/iDFace?page-id=0%3A1&node-id=1-2&p=f&viewport=93%2C98%2C0.07&scaling=min-zoom&content-scaling=fixed&embed-host=share" allowfullscreen></iframe>
+🔗 Projeto: [iDFace no Figma](https://www.figma.com/proto/2dD5FbnVcHnP0VrYsx0C0W/iDFace?page-id=0%3A1&node-id=1-2&viewport=176%2C189%2C0.42&t=oSjpO8Eb4PVllVoL-8&scaling=scale-down&content-scaling=fixed&hide-ui=1)
 
 🔗 Projeto: [REP iDClass no Figma](https://www.figma.com/proto/Arb0wumQ3kHME2INFbWIzA/REP-iDClass?page-id=0%3A1&type=design&node-id=56-4&viewport=304%2C256%2C0.2&t=acayojU9MxuuDrw6-8&scaling=contain&starting-point-node-id=51%3A2&hide-ui=1)
 
